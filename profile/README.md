@@ -2,14 +2,7 @@
 
 > **"중앙대 간호학과 학생 커뮤니티"**
 
-> <b>https://www.cau-gannies.com</b> (예정)
-
-<details>
-<summary><b>유튜브 시연 영상</b></summary>
-<div markdown="1">
-
-</div>
-</details>
+> <b>https://www.caugannies.com</b> (예정)
 
 ---
 
@@ -42,13 +35,14 @@
 
 - ### 진행 인원 및 역할 <br>
 
-  - 4명 (디자인 1명, 프론트엔드 2명, 백엔드 1명)<br>
+  - 5명 (디자인 1명, 기획 1명, 프론트엔드 2명, 백엔드 1명)<br>
     | 이름 | 역할 | 포지션 | 담당 업무 |
     |----------------------------|---------------------------|---------------------------|--------------------------|
     | 엽유정 | 팀원 | Design | • 디자인 |
+    | 문채영 | 팀원 | Product Managing | • 기획 |
     | 김승현 | 팀원 | FrontEnd | • 프론트엔드 |
     | 윤서환 | 팀원 | FrontEnd | • 프론트엔드 |
-    | 이가린 | 팀장 | BackEnd | • 백엔드
+    | 이가린 | 팀장 | BackEnd | • 기획, 백엔드 |
 
 - ### 관련 링크
 
@@ -60,9 +54,10 @@
     - 백엔드 : https://github.com/Gannies/Gannies_BackEnd
 
 - ### 기술 스택
-  - <b>프론트엔드</b> : 미정
-  - <b>백엔드</b> : NestJS, TypeORM, TypeScript, MySQL
-  - <b>배포</b> : 미정
+  - <b>프론트엔드</b> : React, JavaScript
+  - <b>백엔드</b> : NestJS, TypeORM, TypeScript
+  - <b>배포</b> : Vercel, AWS Route53, EC2
+  - <b>클라우드 저장소</b> : AWS S3, RDS(MySQL), Redis
 
 ---
 
