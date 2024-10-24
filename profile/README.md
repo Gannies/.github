@@ -2,7 +2,7 @@
 
 > **"중앙대 간호학과 학생 커뮤니티"**
 
-> <b>https://www.caugannies.com</b> (예정)
+> <b>https://www.caugannies.com</b>
 
 ---
 
