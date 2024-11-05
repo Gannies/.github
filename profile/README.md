@@ -84,12 +84,12 @@
 
   | 항목                 | 링크           |
   |---------------------|--------------|
-  | **피그마**            | [https://www.figma.com/design/KLSDKGLKEsdlgksdtb/Gannies](https://www.figma.com/design/KtYfyQYBhLqffJ3gfB2Xtb/%EC%A4%91%EA%B0%84%EC%9D%B4%EB%93%A4(Gannies)?m=auto&t=RFgVvVYsp8YSQ3AW-1) |
-  | **기획안** | 업로드 예정    |
-  | **기능명세서** | 업로드 예정    |
-  | **Swagger 배포 문서** | 업로드 예정    |
-  | **API 테스트 문서**   | 업로드 예정     |
-  | **포지션별 GitHub 저장소** |                |
+  | 📌 **피그마**            | [https://www.figma.com/design/KLSDKGLKEsdlgksdtb/Gannies](https://www.figma.com/design/KtYfyQYBhLqffJ3gfB2Xtb/%EC%A4%91%EA%B0%84%EC%9D%B4%EB%93%A4(Gannies)?m=auto&t=RFgVvVYsp8YSQ3AW-1) |
+  | 📌 **기획안** | 업로드 예정    |
+  | 📌 **기능명세서** | 업로드 예정    |
+  | 📌 **Swagger 배포 문서** | 업로드 예정    |
+  | 📌 **API 테스트 문서**   | 업로드 예정     |
+  | 📌 **포지션별 GitHub 저장소** |                |
   | - 프론트엔드    | [https://github.com/Gannies/Gannies_FrontEnd](https://github.com/Gannies/Gannies_FrontEnd)       |
   | - 백엔드       | [https://github.com/Gannies/Gannies_BackEnd](https://github.com/Gannies/Gannies_BackEnd)       |
 
@@ -120,13 +120,54 @@
 
 # 3. 페이지 구성
 
+|                                                                          메인 페이지                                                                          |                                                                       로그인 페이지 페이지                                                                       |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|    <div style="text-align: center;"></div>    | <div style="text-align: center;"></div> |
+|                                               <b><div style="text-align: center;">회원가입 페이지</div></b>                                                |                                                 <b><div style="text-align: center;">이메일/비밀번호 찾기 페이지</div></b>                                                 |
+| <div style="text-align: center;"></div> |  <div style="text-align: center;"></div>  |
+|                                                <b><div style="text-align: center;">게시물 목록 페이지</div></b>                                                 |                                                 <b><div style="text-align: center;">게시물 상세 페이지</div></b>                                                 |
+|  <div style="text-align: center;"></div>  |  <div style="text-align: center;"></div>  |
+|                                                   <b><div style="text-align: center;">게시물 작성 페이지</div></b>                                                    |                                                     <b><div style="text-align: center;">검색 결과 페이지</b>                                                     |
+|    <div style="text-align: center;"></div>    |   <div style="text-align: center;"></div>   |
+|                                                  <b><div style="text-align: center;">마이 페이지</div></b>                                                  |                                                    <b><div style="text-align: center;">관리자 페이지</b>                                                    |
+|   <div style="text-align: center;"></div>   |  <div style="text-align: center;"></div>  |
+
 ---
 
 # 4. 주요 구현 내용
 
+- ## 프론트엔드
+
+  | **항목**             | **내용**                                                       |
+  |----------------------|---------------------------------------------------------------|
+  | **페이지 레이아웃**    | 기획된 디자인에 맞게 일관된 페이지 레이아웃 구성                   |
+  | **검색 및 정렬**       | 검색, 페이지네이션, 정렬 기능을 통해 사용자 경험을 개선            |
+  | **관리자 페이지**      | 관리자 페이지를 통한 사이트 관리                               |
+  | **상태 관리**          | Redux Persist로 상태 영속성 관리                                 |
+  | **스타일링**           | Styled-components로 컴포넌트 단위 스타일링 구현                   |
+  | **라우팅 제어**        | Private Router를 통한 인증 상태에 따른 라우팅 제어                |
+  | **유효성 검사**        | 정규식을 활용한 유효성 검사                                     |
+  | **배포 및 도메인 관리** | Vercel 배포 및 AWS Route 53을 통한 도메인 관리                   |
+
+- ## 백엔드
+
+  | **항목**             | **내용**                                                       |
+  |----------------------|---------------------------------------------------------------|
+  | **서버 개발**         | Node.js와 NestJS 프레임워크를 사용한 서버 개발                  |
+  | **데이터베이스**      | MySQL과 TypeORM을 사용한 데이터베이스 설계 및 관리                |
+  | **API 개발**          | RESTful API 설계 및 Swagger를 통한 API 문서화                   |
+  | **세션 인증**         | express-session, connect-redis, passport를 사용한 세션 관리 및 인증 구현 |
+  | **보안**              | JWT 인증을 통한 보안 강화                                      |
+  | **파일 처리**         | AWS S3를 활용한 파일 업로드 및 관리                              |
+  | **캐시 관리**         | Redis를 활용한 캐시 처리로 성능 최적화                          |
+  | **배포 및 관리**      | AWS EC2를 통한 서버 배포 및 관리                                |
+  | **외부 API 활용**     | Nodemailer, Twilio (SMS 인증), Google Vision OCR API를 사용하여 외부 서비스 연동 |
+
 ---
 
 # 5. 기능 설명
+
+### 💡 마이페이지 서비스
 
 ---
 
