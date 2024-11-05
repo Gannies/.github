@@ -19,11 +19,11 @@
 
 # 바로가기
 
-#### 1. [서비스 소개](https://github.com/Gannies/.github/tree/main/profile#1-서비스-소개)
-#### 2. [프로젝트 개요](https://github.com/Gannies/.github/tree/main/profile#2-프로젝트-개요)
-#### 3. [페이지 구성](https://github.com/Gannies/.github/tree/main/profile#3-페이지-구성)
-#### 4. [기능 설명](https://github.com/Gannies/.github/tree/main/profile#4-기능-설명)
-#### 5. [참고 링크](https://github.com/Gannies/.github/tree/main/profile#5-참고-링크)
+#### 1. [서비스 소개](https://github.com/Gannies#1-서비스-소개)
+#### 2. [프로젝트 개요](https://github.com/Gannies#2-프로젝트-개요)
+#### 3. [페이지 구성](https://github.com/Gannies#3-페이지-구성)
+#### 4. [기능 설명](https://github.com/Gannies#4-기능-설명)
+#### 5. [참고 링크](https://github.com/Gannies#5-참고-링크)
 
 ---
 
