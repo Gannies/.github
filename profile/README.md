@@ -15,6 +15,15 @@
 
 ![최상위메인](https://github.com/user-attachments/assets/ec5145e3-660b-4a1e-aaf3-e655b53404ab)
 
+<details>
+<summary><b>유튜브 시연 영상</b></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
 ---
 
 # 바로가기
@@ -178,12 +187,288 @@
 
 # 5. 기능 설명
 
-### 💡 마이페이지 서비스
+### 💡 로그인/로그아웃
+> 사용자 인증 및 세션 관리를 담당하는 핵심 기능 <br>
+> 일반 로그인과 자동 로그인을 지원하며, 세션 만료 시 적절한 알림을 제공하여 연장 가능
+
+  <details>
+  <summary><b>로그인</b> <i>(시연 GIF)</i></summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>자동로그인</b></b> <i>(시연 GIF)</i></summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>로그아웃</b> <i>(시연 GIF)</i></summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>세션 만료 알림</b> <i>(시연 GIF)</i></summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>세션 연장</b> <i>(시연 GIF)</i></summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>유저 상태 모달 알림</b> <i>(시연 GIF)</i></summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+
+<br>
+
+### 💡 계정 관리
+> - 사용자의 계정 복구와 신규 가입을 처리하는 기능 <br>
+> - 3단계 인증 프로세스를 통해 안전한 회원가입을 보장함.
+
+  <details>
+  <summary><b>이메일 찾기</b> <i>(시연 GIF)</i></summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>비밀번호 찾기</b> <i>(시연 GIF)</i></summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>회원가입 프로세스 - 1단계 본인 인증</b> <i>(시연 GIF)</i></summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>회원가입 프로세스 - 2단계 정보 입력</b> <i>(시연 GIF)</i></summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>회원가입 프로세스 - 3단계 학과 인증</b> <i>(시연 GIF)</i></summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+
+<br>
+
+### 💡 게시물 관련 기능
+> 게시물의 CRUD 및 부가 기능을 제공 <br>
+> 에디터를 통한 풍부한 컨텐츠 작성이 가능
+
+  <details>
+  <summary><b>게시물 목록 조회</b> <i>(시연 GIF)</i></summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>게시물 작성 - 에디터로 본문에 글자 및 이미지 첨부</b> <i>(시연 GIF)</i></summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>게시물 작성 - 첨부파일 업로드</b> <i>(시연 GIF)</i></summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>게시물 수정</b> <i>(시연 GIF)</i></summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>게시물 삭제</b> <i>(시연 GIF)</i></summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>게시물 스크랩</b> <i>(시연 GIF)</i></summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>특정 게시물 신고</b> <i>(시연 GIF)</i></summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+
+<br>
+
+### 💡 댓글 관련 기능
+> 게시물에 대한 소통을 위한 댓글 시스템 <br>
+> 계층형 구조로 답글 작성이 가능
+
+  <details>
+  <summary><b>댓글 작성</b> (시연 GIF)</summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>댓글 수정</b> (시연 GIF)</summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>댓글 삭제</b> (시연 GIF)</summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>댓글에 대한 답글 작성</b> (시연 GIF)</summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>답글 수정</b> (시연 GIF)</summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>답글 삭제</b> (시연 GIF)</summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>특정 댓글 또는 답글 신고</b> (시연 GIF)</summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+
+<br>
+
+### 💡 마이페이지 기능
+> 사용자의 개인정보 관리와 활동 내역을 확인 <br>
+> 작성한 콘텐츠와 스크랩 관리 가능
+
+  <details>
+  <summary><b>정보 수정</b> (시연 GIF)</summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>비밀번호 변경</b> (시연 GIF)</summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>내가 쓴 게시글 조회</b> (시연 GIF)</summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>스크랩한 게시글 조회</b> (시연 GIF)</summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>내가 쓴 댓글 조회</b> (시연 GIF)</summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+
+<br>
+
+### 💡 관리자 권한
+> 사이트 전반의 컨텐츠와 회원을 관리하는 관리자 전용 기능 <br>
+> 신고 처리와 회원 관리를 수행
+
+  <details>
+  <summary><b>신고내역 조회 - 게시물</b> (시연 GIF)</summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>신고내역 조회 - 댓글</b> (시연 GIF)</summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>신고내역 처리 - 승인/반려</b> (시연 GIF)</summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>회원관리 - 회원 정지 처리</b> (시연 GIF)</summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>회원관리 - 회원 탈퇴 처리</b> (시연 GIF)</summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>회원 가입 승인 - 정회원 승인</b> (시연 GIF)</summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>회원 가입 승인 - 정회원 거절</b> (시연 GIF)</summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>전체 게시물 댓글 조회</b> (시연 GIF)</summary>
+  <div markdown="1">
+  
+  </div>
+  </details>
 
 ---
 
 # 6. 참고 링크
 
-사이트 제작시 참고한 레퍼런스
-- 블라인드 : https://www.teamblind.com/kr/
-- 너스케입 : https://www.nurscape.net/
+- ## 커뮤니티 사이트
+    - <b>블라인드</b> : https://www.teamblind.com/kr/
+    - <b>너스케입</b> : https://www.nurscape.net/
+    - <b>OKKY</b> : https://okky.kr/
+    - <b>네이버 카페</b> : https://section.cafe.naver.com/ca-fe/home
+      
+- ## 외부 API / 라이브러리
+    - <b>Google Vision OCR</b> : https://cloud.google.com/vision
+    - <b>Google Search Console</b> : https://search.google.com/search-console
+    - <b>Google Marketing Platform</b> : https://marketingplatform.google.com/
+    - <b>TinyMCE</b> : https://www.tiny.cloud/
+    - <b>Twilio Verify</b> : https://www.twilio.com/verify
+    - <b>Node mailer</b> : https://nodemailer.com/
