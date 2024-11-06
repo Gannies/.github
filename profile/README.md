@@ -238,31 +238,61 @@
   <details>
   <summary><b>이메일 찾기</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
-  
+
+  ### 이메일찾기 카테고리에서 인증번호 입력
+  ![이메일찾기-인증번호입력-블러](https://github.com/user-attachments/assets/453e4b2d-8511-40e8-9a63-b4829725b3d1)
+
+  ### 회원조회 성공 
+  ![이메일인증-인증정보일치](https://github.com/user-attachments/assets/1f9d8888-280f-4fe7-b269-a282401405a7)
+
+  ### 회원조회 실패
+  ![이메일인증-인증정보불일치](https://github.com/user-attachments/assets/7c42c177-4e95-44cd-bc29-74529c39396c)
+
   </div>
   </details>
   <details>
   <summary><b>비밀번호 찾기</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
+
+  ### 비밀번호 찾기 카테고리에서 이메일 입력
+  ![비밀번호찾기-이메일발송](https://github.com/user-attachments/assets/33158efa-2e5b-4a88-995c-30740ff15d2b)
   
+  ### 이메일로 발급된 임시비밀번호로 로그인
+  ![비밀번호찾기-이후로직](https://github.com/user-attachments/assets/60a4594d-2024-4ac7-98de-e04c83e0ea81)
+
   </div>
   </details>
   <details>
   <summary><b>회원가입 프로세스 - 1단계 본인 인증</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
-  
+    
+  ### 휴대폰번호 인증 
+  ![회원가입-1단계-번호-블러](https://github.com/user-attachments/assets/2f02194d-0cf2-42c7-abdc-28624dcf3274)
+
+  ### 사이트 약관 동의
+  ![회원가입-1단계-약관-블러](https://github.com/user-attachments/assets/737c57c1-cdde-4012-858d-b227138c035f)
+
   </div>
   </details>
   <details>
   <summary><b>회원가입 프로세스 - 2단계 정보 입력</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
+
+  ### 닉네임, 이메일, 비밀번호 입력
+  ![회원가입-2단계-정보입력](https://github.com/user-attachments/assets/adb0f9b3-bcf8-4a4a-8153-fdfae022575d)
   
   </div>
   </details>
   <details>
   <summary><b>회원가입 프로세스 - 3단계 학과 인증</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
+
+  ### 학과인증
+  ![회원가입-3단계-학과인증](https://github.com/user-attachments/assets/bd242dbc-e171-49e7-b5c6-d0e3f5edb3f0)
   
+  ### 회원가입 양식 제출 후 이메일 인증
+  ![회원가입-3단계-학과인증-이메일인증](https://github.com/user-attachments/assets/6bc30fca-56de-4834-9387-53833dad6233)
+
   </div>
   </details>
 
