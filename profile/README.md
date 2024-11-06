@@ -195,6 +195,8 @@
   <summary><b>로그인</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
   
+  ![로그인](https://github.com/user-attachments/assets/cbbedf2c-6126-483b-9020-496cfa27e04d)
+
   </div>
   </details>
   <details>
@@ -321,43 +323,43 @@
   > - 계층형 구조로 답글 작성이 가능
 
   <details>
-  <summary><b>댓글 작성</b> (시연 GIF)</summary>
+  <summary><b>댓글 작성</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
   
   </div>
   </details>
   <details>
-  <summary><b>댓글 수정</b> (시연 GIF)</summary>
+  <summary><b>댓글 수정</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
   
   </div>
   </details>
   <details>
-  <summary><b>댓글 삭제</b> (시연 GIF)</summary>
+  <summary><b>댓글 삭제</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
   
   </div>
   </details>
   <details>
-  <summary><b>댓글에 대한 답글 작성</b> (시연 GIF)</summary>
+  <summary><b>댓글에 대한 답글 작성</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
   
   </div>
   </details>
   <details>
-  <summary><b>답글 수정</b> (시연 GIF)</summary>
+  <summary><b>답글 수정</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
   
   </div>
   </details>
   <details>
-  <summary><b>답글 삭제</b> (시연 GIF)</summary>
+  <summary><b>답글 삭제</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
   
   </div>
   </details>
   <details>
-  <summary><b>특정 댓글 또는 답글 신고</b> (시연 GIF)</summary>
+  <summary><b>특정 댓글 또는 답글 신고</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
   
   </div>
@@ -370,33 +372,54 @@
   > - 작성한 콘텐츠와 스크랩 관리 가능
 
   <details>
-  <summary><b>정보 수정</b> (시연 GIF)</summary>
+  <summary><b>닉네임 변경</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
+  
+  ![닉네임변경](https://github.com/user-attachments/assets/5a9f7aea-02d9-47fe-b11d-2ae52a9b0422)
+
+  </div>
+  </details>
+  <details>
+  <summary><b>비밀번호 변경</b> <i>(시연 GIF)</i></summary>
+  <div markdown="1">
+    
+  ### 비밀번호 변경 중 새 비밀번호 확인 불일치 <br>
+  ![비밀번호변경중불일치](https://github.com/user-attachments/assets/b399909c-42af-4621-8b93-76aa9a24c50b)
+
+  <br>
+  
+  ### 비밀번호 변경 성공 <br>
+  ![비밀번호변경](https://github.com/user-attachments/assets/80342726-8bf6-4318-a6ec-5ca845082e64)
+
+  <br>
+  
+  ### 비밀번호 변경 후 로그인 <br>
+  ![비밀번호변경후로그인](https://github.com/user-attachments/assets/ea38e427-b782-42a7-ad70-5fb7a7bcf872)
+
+  </div>
+  </details>
+  <details>
+  <summary><b>내가 쓴 게시글 조회</b> <i>(시연 GIF)</i></summary>
+  <div markdown="1">
+  
+  ![내가쓴게시물](https://github.com/user-attachments/assets/23242465-0061-42af-bd15-e56e5bd71d1e)
   
   </div>
   </details>
   <details>
-  <summary><b>비밀번호 변경</b> (시연 GIF)</summary>
+  <summary><b>스크랩한 게시글 조회</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
   
+  ![내가스크랩한글](https://github.com/user-attachments/assets/3d0540a4-4acc-41fa-a668-58d92c29f0a4)
+
   </div>
   </details>
   <details>
-  <summary><b>내가 쓴 게시글 조회</b> (시연 GIF)</summary>
+  <summary><b>내가 쓴 댓글 조회</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
-  
-  </div>
-  </details>
-  <details>
-  <summary><b>스크랩한 게시글 조회</b> (시연 GIF)</summary>
-  <div markdown="1">
-  
-  </div>
-  </details>
-  <details>
-  <summary><b>내가 쓴 댓글 조회</b> (시연 GIF)</summary>
-  <div markdown="1">
-  
+
+  ![내가쓴댓글](https://github.com/user-attachments/assets/a2aea163-17b9-42a4-a347-bec000cfc2a7)
+
   </div>
   </details>
 
@@ -407,49 +430,49 @@
   > - 신고 처리와 회원 관리를 수행
 
   <details>
-  <summary><b>신고내역 조회 - 게시물</b> (시연 GIF)</summary>
+  <summary><b>신고내역 조회 - 게시물</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
   
   </div>
   </details>
   <details>
-  <summary><b>신고내역 조회 - 댓글</b> (시연 GIF)</summary>
+  <summary><b>신고내역 조회 - 댓글</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
   
   </div>
   </details>
   <details>
-  <summary><b>신고내역 처리 - 승인/반려</b> (시연 GIF)</summary>
+  <summary><b>신고내역 처리 - 승인/반려</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
   
   </div>
   </details>
   <details>
-  <summary><b>회원관리 - 회원 정지 처리</b> (시연 GIF)</summary>
+  <summary><b>회원관리 - 회원 정지 처리</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
   
   </div>
   </details>
   <details>
-  <summary><b>회원관리 - 회원 탈퇴 처리</b> (시연 GIF)</summary>
+  <summary><b>회원관리 - 회원 탈퇴 처리</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
   
   </div>
   </details>
   <details>
-  <summary><b>회원 가입 승인 - 정회원 승인</b> (시연 GIF)</summary>
+  <summary><b>회원 가입 승인 - 정회원 승인</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
   
   </div>
   </details>
   <details>
-  <summary><b>회원 가입 승인 - 정회원 거절</b> (시연 GIF)</summary>
+  <summary><b>회원 가입 승인 - 정회원 거절</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
   
   </div>
   </details>
   <details>
-  <summary><b>전체 게시물 댓글 조회</b> (시연 GIF)</summary>
+  <summary><b>전체 게시물 댓글 조회</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
   
   </div>
