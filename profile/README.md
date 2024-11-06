@@ -120,17 +120,29 @@
 
 # 3. 페이지 구성
 
-|                                                                          메인 페이지                                                                          |                                                                       로그인 페이지 페이지                                                                       |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|    <div style="text-align: center;"></div>    | <div style="text-align: center;"></div> |
-|                                               <b><div style="text-align: center;">회원가입 페이지</div></b>                                                |                                                 <b><div style="text-align: center;">이메일/비밀번호 찾기 페이지</div></b>                                                 |
-| <div style="text-align: center;"></div> |  <div style="text-align: center;"></div>  |
-|                                                <b><div style="text-align: center;">게시물 목록 페이지</div></b>                                                 |                                                 <b><div style="text-align: center;">게시물 상세 페이지</div></b>                                                 |
-|  <div style="text-align: center;"></div>  |  <div style="text-align: center;"></div>  |
-|                                                   <b><div style="text-align: center;">게시물 작성 페이지</div></b>                                                    |                                                     <b><div style="text-align: center;">검색 결과 페이지</b>                                                     |
-|    <div style="text-align: center;"></div>    |   <div style="text-align: center;"></div>   |
-|                                                  <b><div style="text-align: center;">마이 페이지</div></b>                                                  |                                                    <b><div style="text-align: center;">관리자 페이지</b>                                                    |
-|   <div style="text-align: center;"></div>   |  <div style="text-align: center;"></div>  |
+- ## 페이지 목록
+  - <b>`메인 페이지`</b> : 카테고리별 게시물 목록과 함께 다른 사이트에 대한 바로가기 표시 
+  - <b>`로그인 페이지`</b> : 이메일과 비밀번호로 로그인. 장기간 로그인 상태를 유지할 수 있는 자동로그인 기능 지원
+  - <b>`회원가입 페이지`</b> : 개인정보 입력 후, 관리자 승인을 위한 확인서류 업로드
+  - <b>`이메일/비밀번호 찾기 페이지`</b> : 잊어버린 이메일 조회 또는 비밀번호 재설정 가능
+  - <b>`게시물 목록 페이지`</b> : 카테고리별 게시물 목록 조회, 게시물은 최신순/조회순/공감순/작성순으로 정렬
+  - <b>`게시물 상세 페이지`</b> : 특정 게시물의 전체 내용과 그에 달린 댓글 조회
+  - <b>`게시물 작성 페이지`</b> : 에디터를 통해 게시물 작성, 이미지 추가, 파일 업로드
+  - <b>`마이 페이지`</b> : 본인 정보 조회 및 수정, 작성한 게시물/댓글 및 스크랩한 글 조회
+  - <b>`관리자 페이지`</b> : 사이트 관리자 계정으로 로그인 후, 회원관리, 게시물관리, 신고내역 관리 등을 진행
+  <br>
+  
+  |                                                                          메인 페이지                                                                          |                                                                       로그인 페이지 페이지                                                                       |
+  | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
+  |    <div style="text-align: center;">![메인페이지](https://github.com/user-attachments/assets/ae12b36f-995a-47c7-b4a9-3bdd3d680d6c)</div>    | <div style="text-align: center;">![로그인페이지](https://github.com/user-attachments/assets/58e37337-ed06-4274-89b4-5c85bf1d7878)</div> |
+  |                                               <b><div style="text-align: center;">회원가입 페이지</div></b>                                                |                                                 <b><div style="text-align: center;">이메일/비밀번호 찾기 페이지</div></b>                                                 |
+  | <div style="text-align: center;">![회원가입페이지](https://github.com/user-attachments/assets/b204de76-bee5-4394-a669-dd4a84983c4e)</div> |  <div style="text-align: center;">![이메일비밀번호찾기페이지](https://github.com/user-attachments/assets/abdd9e24-8de7-446e-ab11-cc6205cf5953)</div>  |
+  |                                                <b><div style="text-align: center;">게시물 목록 페이지</div></b>                                                 |                                                 <b><div style="text-align: center;">게시물 상세 페이지</div></b>                                                 |
+  |  <div style="text-align: center;">![게시물목록페이지](https://github.com/user-attachments/assets/1d49ad1d-3942-49bb-83f0-dc177beb9bcc)</div>  |  <div style="text-align: center;"></div>  |
+  |                                                   <b><div style="text-align: center;">게시물 작성 페이지</div></b>                                                    |                                                     <b><div style="text-align: center;">검색 결과 페이지</b>                                                     |
+  |    <div style="text-align: center;"></div>    |   <div style="text-align: center;">![검색결과페이지](https://github.com/user-attachments/assets/80aa89e1-dfd4-4ac0-9d1f-de963dde5727)</div>   |
+  |                                                  <b><div style="text-align: center;">마이 페이지</div></b>                                                  |                                                    <b><div style="text-align: center;">관리자 페이지</b>                                                    |
+  |   <div style="text-align: center;">![마이페이지](https://github.com/user-attachments/assets/6f86c668-a7b3-44c4-b8e9-bb66da0f4f01)</div>   |  <div style="text-align: center;"></div>  |
 
 ---
 
@@ -157,7 +169,6 @@
   | **데이터베이스**      | MySQL과 TypeORM을 사용한 데이터베이스 설계 및 관리                |
   | **API 개발**          | RESTful API 설계 및 Swagger를 통한 API 문서화                   |
   | **세션 인증**         | express-session, connect-redis, passport를 사용한 세션 관리 및 인증 구현 |
-  | **보안**              | JWT 인증을 통한 보안 강화                                      |
   | **파일 처리**         | AWS S3를 활용한 파일 업로드 및 관리                              |
   | **캐시 관리**         | Redis를 활용한 캐시 처리로 성능 최적화                          |
   | **배포 및 관리**      | AWS EC2를 통한 서버 배포 및 관리                                |
