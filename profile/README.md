@@ -378,24 +378,36 @@
   <details>
   <summary><b>댓글에 대한 답글 작성</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
-  
+ 
+  ![답글작성](https://github.com/user-attachments/assets/a963af26-23a6-4cf4-a349-76b890af6c4a)
+ 
   </div>
   </details>
   <details>
   <summary><b>답글 수정</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
   
+  ![답글수정](https://github.com/user-attachments/assets/743826ea-86b9-457f-8dbc-f2911097be97)
+
   </div>
   </details>
   <details>
   <summary><b>답글 삭제</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
   
+  ![답글삭제](https://github.com/user-attachments/assets/19345873-f17c-4442-8300-3e504125706a)
+
   </div>
   </details>
   <details>
   <summary><b>특정 댓글 또는 답글 신고</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
+
+  ## 다른 사람이 작성한 댓글 신고
+  ![댓글신고](https://github.com/user-attachments/assets/713be68f-36dc-45dd-aacb-638a3e3da758)
+  
+  ## 신고된 댓글은 관리자페이지에서 관리자가 조회
+  ![신고된댓글](https://github.com/user-attachments/assets/59c6d053-b5fe-4ba7-a7e7-e5cd03872c7e)
   
   </div>
   </details>
