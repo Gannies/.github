@@ -354,19 +354,25 @@
   <details>
   <summary><b>댓글 작성</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
-  
+
+  ![댓글작성](https://github.com/user-attachments/assets/379b4760-57ed-4e56-b55d-3dd64e33a458)
+
   </div>
   </details>
   <details>
   <summary><b>댓글 수정</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
-  
+    
+  ![댓글수정](https://github.com/user-attachments/assets/9ac54f68-7d9c-4776-ab84-6a247156c69e)
+
   </div>
   </details>
   <details>
   <summary><b>댓글 삭제</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
   
+  ![댓글삭제](https://github.com/user-attachments/assets/b9dd97ae-20d4-476a-afde-294087ed1e26)
+
   </div>
   </details>
   <details>
