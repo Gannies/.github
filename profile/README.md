@@ -195,31 +195,47 @@
   <details>
   <summary><b>자동로그인</b></b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
-  
+    
+  ## 세션 쿠키 만료 기한을 2주 정도 설정하여 세션을 유지 
+  ![자동로그인](https://github.com/user-attachments/assets/d5dd5077-0f6a-45ed-82c5-783009c39dc1)
+
   </div>
   </details>
   <details>
   <summary><b>로그아웃</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
-  
+
+  ![로그아웃](https://github.com/user-attachments/assets/d7a702b1-7785-4c95-afc0-f0758fd1d78d)
+
   </div>
   </details>
   <details>
-  <summary><b>세션 만료 알림</b> <i>(시연 GIF)</i></summary>
+  <summary><b>세션 만료 알림 및 연장</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
-  
-  </div>
-  </details>
-  <details>
-  <summary><b>세션 연장</b> <i>(시연 GIF)</i></summary>
-  <div markdown="1">
-  
+
+  ![세션만료알림연장](https://github.com/user-attachments/assets/61b4d2f4-d81e-4f94-816b-23180b481539)
+
   </div>
   </details>
   <details>
   <summary><b>유저 상태 모달 알림</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
   
+  ## 회원구분 - 이메일 인증 대기 상태
+  ![유저상태모달알림-이메일인증대기](https://github.com/user-attachments/assets/d05219f3-5d2e-40dc-b94e-cc5857c13d6d)
+
+  ## 회원구분 - 관리자의 정회원 승인 대기 상태
+  ![유저상태모달알림-승인대기중](https://github.com/user-attachments/assets/486d3f36-2fe2-43b6-8cdd-ee551c1096b2)
+
+  ## 회원구분 - 관리자의 정회원 승인 거절된 상태
+  ![유저상태모달알림-승인거절](https://github.com/user-attachments/assets/3d638ac8-1826-4b8a-94ed-bf621e7f394d)
+
+  ## 임시 비밀번호로 로그인했을 경우 변경 요청 알림
+  ![유저상태모달알림-임시비밀번호로그인](https://github.com/user-attachments/assets/4d6d9c3c-b343-49fb-9ca3-e39c7266df3d)
+
+  ## 회원 활동정지 상태
+  ![유저상태모달알림-정지](https://github.com/user-attachments/assets/f6e40bd3-23d9-4d0c-a586-b385d3760414)
+
   </div>
   </details>
 
