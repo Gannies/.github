@@ -50,7 +50,7 @@
     - **정보 관리**: 이론/실습/취업 등 체계적 카테고리 분류
     - **기술 특징**:
       - **통합 검색 시스템**: 제목 + 내용 검색 지원
-      - **게시판 에디터**: TinyMCE를 활용하여 사용자가 편리하게 게시물 작성 가능
+      - **게시판 에디터**: TinyMCE를 활용하여 사용자가 편리하게 게시글 작성 가능
       - **다양한 파일 형식 지원**: 이미지, PDF, DOC, HWP, PPT 등
       - **직관적인 UI/UX 구현** : 사용자 친화적이고 정보 공유에 최적화된 디자인
 
@@ -123,15 +123,15 @@
 # 3. 페이지 구성
 
 - ## 페이지 목록
-  - <b>`메인 페이지`</b> : 카테고리별 게시물 목록과 함께 다른 사이트에 대한 바로가기 표시 
+  - <b>`메인 페이지`</b> : 카테고리별 게시글 목록과 함께 다른 사이트에 대한 바로가기 표시 
   - <b>`로그인 페이지`</b> : 이메일과 비밀번호로 로그인. 장기간 로그인 상태를 유지할 수 있는 자동로그인 기능 지원
   - <b>`회원가입 페이지`</b> : 개인정보 입력 후, 관리자 승인을 위한 확인서류 업로드
   - <b>`이메일/비밀번호 찾기 페이지`</b> : 잊어버린 이메일 조회 또는 비밀번호 재설정 가능
-  - <b>`게시물 목록 페이지`</b> : 카테고리별 게시물 목록 조회, 게시물은 최신순/조회순/공감순/작성순으로 정렬
-  - <b>`게시물 상세 페이지`</b> : 특정 게시물의 전체 내용과 그에 달린 댓글 조회
-  - <b>`게시물 작성 페이지`</b> : 에디터를 통해 게시물 작성, 이미지 추가, 파일 업로드
-  - <b>`마이 페이지`</b> : 본인 정보 조회 및 수정, 작성한 게시물/댓글 및 스크랩한 글 조회
-  - <b>`관리자 페이지`</b> : 사이트 관리자 계정으로 로그인 후, 회원관리, 게시물관리, 신고내역 관리 등을 진행
+  - <b>`게시글 목록 페이지`</b> : 카테고리별 게시글 목록 조회, 게시글은 최신순/조회순/공감순/작성순으로 정렬
+  - <b>`게시글 상세 페이지`</b> : 특정 게시글의 전체 내용과 그에 달린 댓글 조회
+  - <b>`게시글 작성 페이지`</b> : 에디터를 통해 게시글 작성, 이미지 추가, 파일 업로드
+  - <b>`마이 페이지`</b> : 본인 정보 조회 및 수정, 작성한 게시글/댓글 및 스크랩한 글 조회
+  - <b>`관리자 페이지`</b> : 사이트 관리자 계정으로 로그인 후, 회원관리, 게시글관리, 신고내역 관리 등을 진행
   <br>
   
 | **메인 페이지**                                                                                                     | **로그인 페이지**                                                                                                     |
@@ -139,9 +139,9 @@
 | ![메인페이지](https://github.com/user-attachments/assets/ae12b36f-995a-47c7-b4a9-3bdd3d680d6c)                         | ![로그인페이지](https://github.com/user-attachments/assets/58e37337-ed06-4274-89b4-5c85bf1d7878)                     |
 | <b><div style="text-align: center;">회원가입 페이지</div></b>                                                                                                   | **이메일/비밀번호 찾기 페이지**                                                                                         |
 | ![회원가입페이지](https://github.com/user-attachments/assets/b204de76-bee5-4394-a669-dd4a84983c4e)                     | ![이메일비밀번호찾기페이지](https://github.com/user-attachments/assets/abdd9e24-8de7-446e-ab11-cc6205cf5953)           |
-| **게시물 목록 페이지**                                                                                                  | **게시물 상세 페이지**                                                                                                 |
+| **게시글 목록 페이지**                                                                                                  | **게시글 상세 페이지**                                                                                                 |
 | ![image](https://github.com/user-attachments/assets/df707c98-ffeb-4203-9b08-0082639d9e16)                              | ![image](https://github.com/user-attachments/assets/c443d419-e582-474c-b597-d3d896985eaf)                             |
-| **게시물 작성 페이지**                                                                                                  | **검색 결과 페이지**                                                                                                  |
+| **게시글 작성 페이지**                                                                                                  | **검색 결과 페이지**                                                                                                  |
 | ![image](https://github.com/user-attachments/assets/f195c93e-b927-48c9-90d1-afb071bb53db)                              | ![image](https://github.com/user-attachments/assets/f246c904-0f39-4985-b122-f5340981505c)                             |
 | **마이 페이지**                                                                                                         | **관리자 페이지**                                                                                                     |
 | ![마이페이지](https://github.com/user-attachments/assets/6f86c668-a7b3-44c4-b8e9-bb66da0f4f01)                         | ![image](https://github.com/user-attachments/assets/c86653f9-1b9d-4847-a225-47f52fb814c6)                                                                                                                       |
@@ -308,57 +308,85 @@
 
 <br>
 
-- ## 💡 게시물 관련 기능
-  > - 게시물의 CRUD 및 부가 기능을 제공 <br>
+- ## 💡 게시글 관련 기능
+  > - 게시글의 CRUD 및 부가 기능을 제공 <br>
   > - 에디터를 통한 풍부한 컨텐츠 작성이 가능
 
   <details>
-  <summary><b>게시물 목록 조회</b> <i>(시연 GIF)</i></summary>
+  <summary><b>게시글 목록 조회</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
+    
+  ## 카테고리별 게시글 목록 조회, 정렬
+  ![게시글목록조회](https://github.com/user-attachments/assets/a3321f93-8743-4efa-91b2-ef8339c9633e)
+
+  </div>
+  </details>
+  <details>
+  <summary><b>게시글글 작성 - 에디터로 본문에 글자 및 이미지 첨부</b> <i>(시연 GIF)</i></summary>
+  <div markdown="1">
+    
+  # 텍스트 입력
+  ![글작성-1](https://github.com/user-attachments/assets/b9b42230-b473-4215-ad2b-3f3d7effbe8d)
+
+  # 인터넷에서 이미지 복사하여 붙여넣기
+  ![글작성-2](https://github.com/user-attachments/assets/517f1501-8491-4cde-9ba5-718e339d7633)
+
+  </div>
+  </details>
+  <details>
+  <summary><b>게시글 작성 - 첨부파일 업로드</b> <i>(시연 GIF)</i></summary>
+  <div markdown="1">
+
+   # hwp 파일 첨부파일로 업로드, 해당 게시글에서 첨부파일 다운로드
+  ![글작성-첨부파일업로드](https://github.com/user-attachments/assets/b5a1ea43-50a7-4495-8339-39cae056ce48)
+
+  </div>
+  </details>
+  <details>
+  <summary><b>게시글 수정</b> <i>(시연 GIF)</i></summary>
+  <div markdown="1">
+  
+  ![게시글수정](https://github.com/user-attachments/assets/debf7a4c-3898-4c61-b441-46f710a78c1f)
   
   </div>
   </details>
   <details>
-  <summary><b>게시물 작성 - 에디터로 본문에 글자 및 이미지 첨부</b> <i>(시연 GIF)</i></summary>
+  <summary><b>게시글 삭제</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
   
+  ![게시글삭제](https://github.com/user-attachments/assets/4e992d4e-6381-46c7-a651-d3079605f01f)
+
   </div>
   </details>
   <details>
-  <summary><b>게시물 작성 - 첨부파일 업로드</b> <i>(시연 GIF)</i></summary>
+  <summary><b>게시글 스크랩</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
+
+  # 특정 게시글 스크랩하여 마이페이지에서 조회
+  ![스크랩등록](https://github.com/user-attachments/assets/7ab4069a-9147-46e0-8365-03904128d9bd)
   
+  # 스크랩 취소
+  ![스크랩취소](https://github.com/user-attachments/assets/505702d8-91a2-4756-b9b5-25541e5637a1)
+
   </div>
   </details>
   <details>
-  <summary><b>게시물 수정</b> <i>(시연 GIF)</i></summary>
+  <summary><b>특정 게시글 신고</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
-  
-  </div>
-  </details>
-  <details>
-  <summary><b>게시물 삭제</b> <i>(시연 GIF)</i></summary>
-  <div markdown="1">
-  
-  </div>
-  </details>
-  <details>
-  <summary><b>게시물 스크랩</b> <i>(시연 GIF)</i></summary>
-  <div markdown="1">
-  
-  </div>
-  </details>
-  <details>
-  <summary><b>특정 게시물 신고</b> <i>(시연 GIF)</i></summary>
-  <div markdown="1">
-  
+
+  # 다른 사람이 쓴 게시글 신고
+  ![게시글신고](https://github.com/user-attachments/assets/718517cc-e0f2-40a4-8ea2-f81742f035ea)
+
+  # 신고된 게시글은 관리자페이지에서 관리자가 확인
+  ![게시글신고-관리자페이지](https://github.com/user-attachments/assets/e21bf93b-e37c-4902-a495-a088c1422b1d)
+
   </div>
   </details>
 
 <br>
 
 - ## 💡 댓글 관련 기능
-  > - 게시물에 대한 소통을 위한 댓글 시스템 <br>
+  > - 게시글에 대한 소통을 위한 댓글 시스템 <br>
   > - 계층형 구조로 답글 작성이 가능
 
   <details>
@@ -487,7 +515,7 @@
   > - 신고 처리와 회원 관리를 수행
 
   <details>
-  <summary><b>신고내역 조회 - 게시물</b> <i>(시연 GIF)</i></summary>
+  <summary><b>신고내역 조회 - 게시글</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
   
   </div>
@@ -529,7 +557,7 @@
   </div>
   </details>
   <details>
-  <summary><b>전체 게시물 댓글 조회</b> <i>(시연 GIF)</i></summary>
+  <summary><b>전체 게시글 또는 댓글 조회</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
   
   </div>
