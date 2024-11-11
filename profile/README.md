@@ -12,17 +12,11 @@
 > 함께 성장하는 중앙대 간호인들의 커뮤니티에 오신 것을 환영합니다.
 > 
 > ### 👉 <b>https://www.caugannies.com</b>
-
-![최상위메인](https://github.com/user-attachments/assets/ec5145e3-660b-4a1e-aaf3-e655b53404ab)
-
-<details>
-<summary><b>유튜브 시연 영상</b></summary>
-<div markdown="1">
-
-
-
-</div>
-</details>
+> 
+>  ![최상위메인](https://github.com/user-attachments/assets/ec5145e3-660b-4a1e-aaf3-e655b53404ab)
+> 
+> ### 🎥 유튜브 시연 영상 
+> [![Video Label](http://img.youtube.com/vi/XeknnOg0EK0/0.jpg)](https://youtu.be/XeknnOg0EK0?si=_IMPBy3Xl3B8AaCj)
 
 ---
 
