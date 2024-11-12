@@ -322,6 +322,28 @@
   </div>
   </details>
   <details>
+  <summary><b>특정 게시글 조회</b> <i>(시연 GIF)</i></summary>
+  <div markdown="1">
+  
+  ![특정게시글조회](https://github.com/user-attachments/assets/db9ca699-9350-4ef1-bd87-4235bf2733b8)
+  
+  </div>
+  </details>
+  <details>
+  <summary><b>게시글 검색</b> <i>(시연 GIF)</i></summary>
+  <div markdown="1">
+  
+  ### 입력한 키워드가 제목이나 내용에 포함된 게시물이 검색 (작성일 기준 내림차순 정렬)
+
+  #### 예시 1) '소아' 키워드로 검색
+  ![게시글검색1](https://github.com/user-attachments/assets/5fe85e66-bd1c-41fd-847b-0076f4c50709)
+
+  #### 예시 2) '신규' 키워드로 검색
+  ![게시글검색2](https://github.com/user-attachments/assets/6bc0762b-dabc-4134-96d7-5a1facf02164)
+
+  </div>
+  </details>
+  <details>
   <summary><b>게시글 작성 - 에디터로 본문에 글자 및 이미지 첨부</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
     
