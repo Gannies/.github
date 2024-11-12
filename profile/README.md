@@ -279,6 +279,9 @@
   ### 휴대폰번호 인증 
   ![회원가입-1단계-번호-블러](https://github.com/user-attachments/assets/2f02194d-0cf2-42c7-abdc-28624dcf3274)
 
+  ### 휴대폰으로 오는 문자메시지 내역
+  ![KakaoTalk_20241112_160256205](https://github.com/user-attachments/assets/19920d3e-42b6-42b6-8a10-02753297ca25)
+
   ### 사이트 약관 동의
   ![회원가입-1단계-약관-블러](https://github.com/user-attachments/assets/737c57c1-cdde-4012-858d-b227138c035f)
 
@@ -569,9 +572,11 @@
   <div markdown="1">
     
   ### 관리자의 회원 정지 해제
+  ![관리자-회원정지해제](https://github.com/user-attachments/assets/9495ed4d-6edb-43df-960f-11a494400b2d)
 
   ### 정지 해제된 회원에게 이메일 발송
-
+  ![관리자-회원정지해제-메일](https://github.com/user-attachments/assets/f177cb56-fb4e-411b-9106-007458ccf3a6)
+  
   </div>
   </details>
   <details>
