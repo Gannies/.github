@@ -196,7 +196,7 @@
   <summary><b>자동로그인</b></b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
     
-  ## 세션 쿠키 만료 기한을 2주 정도 설정하여 세션을 유지 
+  ### 세션 쿠키 만료 기한을 2주 정도 설정하여 세션을 유지 
   ![자동로그인](https://github.com/user-attachments/assets/d5dd5077-0f6a-45ed-82c5-783009c39dc1)
 
   </div>
@@ -221,19 +221,19 @@
   <summary><b>유저 상태 모달 알림</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
   
-  ## 회원구분 - 이메일 인증 대기 상태
+  ### 회원구분 - 이메일 인증 대기 상태
   ![유저상태모달알림-이메일인증대기](https://github.com/user-attachments/assets/d05219f3-5d2e-40dc-b94e-cc5857c13d6d)
 
-  ## 회원구분 - 관리자의 정회원 승인 대기 상태
+  ### 회원구분 - 관리자의 정회원 승인 대기 상태
   ![유저상태모달알림-승인대기중](https://github.com/user-attachments/assets/486d3f36-2fe2-43b6-8cdd-ee551c1096b2)
 
-  ## 회원구분 - 관리자의 정회원 승인 거절된 상태
+  ### 회원구분 - 관리자의 정회원 승인 거절된 상태
   ![유저상태모달알림-승인거절](https://github.com/user-attachments/assets/3d638ac8-1826-4b8a-94ed-bf621e7f394d)
 
-  ## 임시 비밀번호로 로그인했을 경우 변경 요청 알림
+  ### 임시 비밀번호로 로그인했을 경우 변경 요청 알림
   ![유저상태모달알림-임시비밀번호로그인](https://github.com/user-attachments/assets/4d6d9c3c-b343-49fb-9ca3-e39c7266df3d)
 
-  ## 회원 활동정지 상태
+  ### 회원 활동정지 상태
   ![유저상태모달알림-정지](https://github.com/user-attachments/assets/f6e40bd3-23d9-4d0c-a586-b385d3760414)
 
   </div>
@@ -316,7 +316,7 @@
   <summary><b>게시글 목록 조회</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
     
-  ## 카테고리별 게시글 목록 조회, 정렬
+  ### 카테고리별 게시글 목록 조회, 정렬
   ![게시글목록조회](https://github.com/user-attachments/assets/a3321f93-8743-4efa-91b2-ef8339c9633e)
 
   </div>
@@ -325,10 +325,10 @@
   <summary><b>게시글글 작성 - 에디터로 본문에 글자 및 이미지 첨부</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
     
-  # 텍스트 입력
+  ### 텍스트 입력
   ![글작성-1](https://github.com/user-attachments/assets/b9b42230-b473-4215-ad2b-3f3d7effbe8d)
 
-  # 인터넷에서 이미지 복사하여 붙여넣기
+  ### 인터넷에서 이미지 복사하여 붙여넣기
   ![글작성-2](https://github.com/user-attachments/assets/517f1501-8491-4cde-9ba5-718e339d7633)
 
   </div>
@@ -337,7 +337,7 @@
   <summary><b>게시글 작성 - 첨부파일 업로드</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
 
-   # hwp 파일 첨부파일로 업로드, 해당 게시글에서 첨부파일 다운로드
+  ### hwp 파일 첨부파일로 업로드, 해당 게시글에서 첨부파일 다운로드
   ![글작성-첨부파일업로드](https://github.com/user-attachments/assets/b5a1ea43-50a7-4495-8339-39cae056ce48)
 
   </div>
@@ -362,10 +362,10 @@
   <summary><b>게시글 스크랩</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
 
-  # 특정 게시글 스크랩하여 마이페이지에서 조회
+  ### 특정 게시글 스크랩하여 마이페이지에서 조회
   ![스크랩등록](https://github.com/user-attachments/assets/7ab4069a-9147-46e0-8365-03904128d9bd)
   
-  # 스크랩 취소
+  ### 스크랩 취소
   ![스크랩취소](https://github.com/user-attachments/assets/505702d8-91a2-4756-b9b5-25541e5637a1)
 
   </div>
@@ -374,10 +374,10 @@
   <summary><b>특정 게시글 신고</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
 
-  # 다른 사람이 쓴 게시글 신고
+  ### 다른 사람이 쓴 게시글 신고
   ![게시글신고](https://github.com/user-attachments/assets/718517cc-e0f2-40a4-8ea2-f81742f035ea)
 
-  # 신고된 게시글은 관리자페이지에서 관리자가 확인
+  ### 신고된 게시글은 관리자페이지에서 관리자가 확인
   ![게시글신고-관리자페이지](https://github.com/user-attachments/assets/e21bf93b-e37c-4902-a495-a088c1422b1d)
 
   </div>
@@ -441,10 +441,10 @@
   <summary><b>특정 댓글 또는 답글 신고</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
 
-  ## 다른 사람이 작성한 댓글 신고
+  ### 다른 사람이 작성한 댓글 신고
   ![댓글신고](https://github.com/user-attachments/assets/713be68f-36dc-45dd-aacb-638a3e3da758)
   
-  ## 신고된 댓글은 관리자페이지에서 관리자가 조회
+  ### 신고된 댓글은 관리자페이지에서 관리자가 조회
   ![신고된댓글](https://github.com/user-attachments/assets/59c6d053-b5fe-4ba7-a7e7-e5cd03872c7e)
   
   </div>
@@ -518,48 +518,97 @@
   <summary><b>신고내역 조회 - 게시글</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
   
+  ![관리자-신고내역-게시물](https://github.com/user-attachments/assets/cd03d057-bc15-4bef-98ba-a0c4f11686dc)
+  
   </div>
   </details>
   <details>
   <summary><b>신고내역 조회 - 댓글</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
-  
-  </div>
-  </details>
-  <details>
-  <summary><b>신고내역 처리 - 승인/반려</b> <i>(시연 GIF)</i></summary>
-  <div markdown="1">
-  
+    
+  ![관리자-신고내역-댓글](https://github.com/user-attachments/assets/e1fa51e4-ee55-4f88-958e-9f39dc7c7bd0)
+
   </div>
   </details>
   <details>
   <summary><b>회원관리 - 회원 정지 처리</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
   
+  ### 관리자의 회원 정지 처리
+  ![관리자-회원정지](https://github.com/user-attachments/assets/db766176-da03-4547-9892-0537e2256761)
+
+  ### 정지처리된 회원에게 이메일 발송
+  ![관리자-회원정지-메일](https://github.com/user-attachments/assets/9f94c6d6-121c-44cd-bfbe-879250e39d85)
+  
   </div>
   </details>
   <details>
   <summary><b>회원관리 - 회원 탈퇴 처리</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
-  
+    
+  ### 관리자의 회원 탈퇴 처리
+  ![관리자-회원탈퇴](https://github.com/user-attachments/assets/b5b4470d-ba5e-41e7-aa19-59dba2aa0769)
+
+  ### 탈퇴처리된 회원에게 이메일 발송
+  ![관리자-회원탈퇴-메일](https://github.com/user-attachments/assets/cbfe7207-92f2-42bc-aeac-8cdaf6807ae0)
+
   </div>
   </details>
   <details>
   <summary><b>회원 가입 승인 - 정회원 승인</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
+
+  ### 회원가입 승인 페이지에서 특정 회원의 인증서류 확인
+  ![관리자-회원가입승인](https://github.com/user-attachments/assets/c4f13afa-6620-41ec-b5c5-5f2c10bdd62f)
+
+  ### 특정 회원 정회원으로 가입 승인
+  ![관리자-회원가입승인2](https://github.com/user-attachments/assets/50024909-7bfb-4894-8ca2-454cfacbdb94)
+
+  ### 가입 승인된 회원에게 메일로 안내
+  ![관리자-회원가입승인-메일](https://github.com/user-attachments/assets/b48034b8-b975-40b0-b0af-82ff4cc546ea)
   
   </div>
   </details>
   <details>
   <summary><b>회원 가입 승인 - 정회원 거절</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
+
+  ### 회원가입 승인 페이지에서 특정 회원의 인증서류 확인 후 정회원 가입 거절
+  ![관리자-회원가입거절](https://github.com/user-attachments/assets/ead122c1-cc01-4427-a889-7cc1e8f396e7)
+
+  ### 가입 거절된 회원에게 메일로 안내
+  ![관리자-회원가입거절-메일](https://github.com/user-attachments/assets/1aedf44a-c7e3-49d1-8822-3c0ab8485155)
   
   </div>
   </details>
   <details>
-  <summary><b>전체 게시글 또는 댓글 조회</b> <i>(시연 GIF)</i></summary>
+  <summary><b>전체 게시글 조회, 검색 및 특정 게시물 삭제</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
+    
+  ### 게시글 검색
+  ![관리자-게시글-검색](https://github.com/user-attachments/assets/bc267575-7ff5-4d75-b0d0-aaafccd4a4c3)
+
+  ### 게시글 상세 정보 조회
+  ![관리자-게시글-상세](https://github.com/user-attachments/assets/46521031-b7b4-49c4-bcd6-2a96de1fa329)
+
+  ### 게시글 삭제
+  ![관리자-게시글-삭제](https://github.com/user-attachments/assets/ab4e5587-724c-4f27-9fa1-955f6684976b)
   
+  </div>
+  </details>
+  <details>
+  <summary><b>전체 댓글 조회, 검색 및 특정 댓글 삭제</b> <i>(시연 GIF)</i></summary>
+  <div markdown="1">
+    
+  ### 댓글 검색, 상세 정보 조회
+  ![관리자-댓글-검색,상세조회](https://github.com/user-attachments/assets/1b29ea19-3cfb-42da-ba83-0e89302957d9)
+
+  ### 댓글 검색만
+  ![관리자-댓글-검색만](https://github.com/user-attachments/assets/52e85040-e10d-451b-8fea-be8941557300)
+
+  ### 댓글 삭제
+  ![관리자-댓글-삭제](https://github.com/user-attachments/assets/54446b7c-c2d0-425e-99e8-f3603d28e8d4)
+
   </div>
   </details>
 
