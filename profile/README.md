@@ -13,7 +13,7 @@
 > 
 > ### 👉 <b>https://www.caugannies.com</b>
 > 
->  ![최상위메인](https://github.com/user-attachments/assets/ec5145e3-660b-4a1e-aaf3-e655b53404ab)
+>  ![리드미최상위메인](https://github.com/user-attachments/assets/cbd8f449-1c93-40b9-9213-d6ddc3f0a3bb)
 > 
 > ### 🎥 유튜브 시연 영상 
 > [![Video Label](http://img.youtube.com/vi/XeknnOg0EK0/0.jpg)](https://youtu.be/XeknnOg0EK0?si=_IMPBy3Xl3B8AaCj)
@@ -136,15 +136,15 @@
   
 | **메인 페이지**                                                                                                     | **로그인 페이지**                                                                                                     |
   | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![메인페이지](https://github.com/user-attachments/assets/ae12b36f-995a-47c7-b4a9-3bdd3d680d6c)                         | ![로그인페이지](https://github.com/user-attachments/assets/58e37337-ed06-4274-89b4-5c85bf1d7878)                     |
+| ![메인페이지](https://github.com/user-attachments/assets/7f35bb45-5f54-47f6-b0e9-d67a13fbdf49)                         | ![로그인페이지](https://github.com/user-attachments/assets/58e37337-ed06-4274-89b4-5c85bf1d7878)                     |
 | <b><div style="text-align: center;">회원가입 페이지</div></b>                                                                                                   | **이메일/비밀번호 찾기 페이지**                                                                                         |
 | ![회원가입페이지](https://github.com/user-attachments/assets/b204de76-bee5-4394-a669-dd4a84983c4e)                     | ![이메일비밀번호찾기페이지](https://github.com/user-attachments/assets/abdd9e24-8de7-446e-ab11-cc6205cf5953)           |
 | **게시글 목록 페이지**                                                                                                  | **게시글 상세 페이지**                                                                                                 |
-| ![image](https://github.com/user-attachments/assets/df707c98-ffeb-4203-9b08-0082639d9e16)                              | ![image](https://github.com/user-attachments/assets/c443d419-e582-474c-b597-d3d896985eaf)                             |
+| ![게시글목록조회페이지](https://github.com/user-attachments/assets/46eee989-7505-4a66-9094-4c525da14e2a)                              | ![image](https://github.com/user-attachments/assets/c443d419-e582-474c-b597-d3d896985eaf)                             |
 | **게시글 작성 페이지**                                                                                                  | **검색 결과 페이지**                                                                                                  |
-| ![image](https://github.com/user-attachments/assets/f195c93e-b927-48c9-90d1-afb071bb53db)                              | ![image](https://github.com/user-attachments/assets/f246c904-0f39-4985-b122-f5340981505c)                             |
+| ![image](https://github.com/user-attachments/assets/f195c93e-b927-48c9-90d1-afb071bb53db)                              | ![검색페이지](https://github.com/user-attachments/assets/eab8f0c2-6f99-465f-99e0-49c93e6d6333)                             |
 | **마이 페이지**                                                                                                         | **관리자 페이지**                                                                                                     |
-| ![마이페이지](https://github.com/user-attachments/assets/6f86c668-a7b3-44c4-b8e9-bb66da0f4f01)                         | ![image](https://github.com/user-attachments/assets/c86653f9-1b9d-4847-a225-47f52fb814c6)                                                                                                                       |
+| ![마이페이지](https://github.com/user-attachments/assets/38fe4204-a9e7-4bd4-aa37-db87b7b24531)                      | ![관리자페이지](https://github.com/user-attachments/assets/6bf0368a-4bde-44f0-89e0-f7d82a05a0c3)                                                                                                                      |
 
 ---
 
@@ -322,7 +322,7 @@
   </div>
   </details>
   <details>
-  <summary><b>게시글글 작성 - 에디터로 본문에 글자 및 이미지 첨부</b> <i>(시연 GIF)</i></summary>
+  <summary><b>게시글 작성 - 에디터로 본문에 글자 및 이미지 첨부</b> <i>(시연 GIF)</i></summary>
   <div markdown="1">
     
   ### 텍스트 입력
@@ -540,6 +540,16 @@
   ### 정지처리된 회원에게 이메일 발송
   ![관리자-회원정지-메일](https://github.com/user-attachments/assets/9f94c6d6-121c-44cd-bfbe-879250e39d85)
   
+  </div>
+  </details>
+  <details>
+  <summary><b>회원관리 - 회원 정지 해제</b> <i>(시연 GIF)</i></summary>
+  <div markdown="1">
+    
+  ### 관리자의 회원 정지 해제
+
+  ### 정지 해제된 회원에게 이메일 발송
+
   </div>
   </details>
   <details>
