@@ -88,7 +88,7 @@
   | 항목                 | 링크           |
   |---------------------|--------------|
   | 📌 **피그마**            | [https://www.figma.com/design/KLSDKGLKEsdlgksdtb/Gannies](https://www.figma.com/design/KtYfyQYBhLqffJ3gfB2Xtb/%EC%A4%91%EA%B0%84%EC%9D%B4%EB%93%A4(Gannies)?m=auto&t=RFgVvVYsp8YSQ3AW-1) |
-  | 📌 **기획안** | [프로젝트 기획안](https://caugannies.s3.ap-northeast-2.amazonaws.com/README/%EA%B8%B0%ED%9A%8D%EC%95%88/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3+%E1%84%80%E1%85%B5%E1%84%92%E1%85%AC%E1%86%A8%E1%84%8B%E1%85%A1%E1%86%AB+d357721641ca4ade988f5242fec10ea1.html)   |
+  | 📌 **기획안** | [프로젝트 기획안](https://github.com/Gannies/.github/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D%EC%95%88)   |
   | 📌 **기능명세서** | [페이지별 기능명세서](https://caugannies.s3.ap-northeast-2.amazonaws.com/README/%EA%B8%B0%EB%8A%A5%EB%AA%85%EC%84%B8%EC%84%9C/%E1%84%80%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%E1%84%86%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A6%E1%84%89%E1%85%A5+%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B2+136983c82d7f809688e8f7921211b661.html)    |
   | 📌 **Swagger 배포 문서** | https://api.caugannies.com/api    |
   | 📌 **포지션별 GitHub 저장소** |                |
